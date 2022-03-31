@@ -1,6 +1,6 @@
-
-<div align="left">
-  ### Hi I'm Dorr 👋 
+<div style='display:flex;'>
+<div >
+  <h3>Hi I'm Dorr 👋 </h3>
   
   ---
  
@@ -14,11 +14,12 @@
 </div>
 
 
-<div align="right">
+<div >
   
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorrKim&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorrKim&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
  
- <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dorrdorr9311"/>
+ <img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dorrdorr9311"/>
 
  
+</div>
 </div>
