@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi I'm Dorr 👋
+ 
+설명하는 것이 가장 좋은 학습방법이라 믿는 프론트엔드 개발자 김현석입니다.
+### 프로그래머스 스터디 스피커 -  <a href='https://present.do/presentations/61443969e3562505806fa234'>OSI 7Layer</a> ###
+
+## Skill
+<img src="https://img.shields.io/badge/JavaScript-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
+
 
 <!--
 **DorrKim/DorrKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
