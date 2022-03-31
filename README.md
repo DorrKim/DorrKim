@@ -3,21 +3,20 @@
 설명하는 것이 가장 좋은 학습방법이라 믿는 프론트엔드 개발자 김현석입니다.
 ### 프로그래머스 스터디 스피커 -  <a href='https://present.do/presentations/61443969e3562505806fa234'>OSI 7Layer</a> ###
 
-## Skill
-<img src="https://img.shields.io/badge/JavaScript-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
+<h3 align="left">🛠 Skill 🛠</h3>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+</p>
 
-<!--
-**DorrKim/DorrKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Learning...</h3>
+<p alig>
+ <img src="https://img.shields.io/badge/Typescript-3178c6?style=flat-square&logo=Typescript&logoColor=white" /></a>&nbsp
+ <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" /></a>&nbsp
+</p> 
 
-Here are some ideas to get you started:
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dorrdorr9311)](https://solved.ac/dorrdorr9311)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DorrKim)](https://github.com/DorrKim/github-readme-stats)
