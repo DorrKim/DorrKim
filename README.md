@@ -1,5 +1,5 @@
-<div style='display:flex;'>
-<div >
+
+<div align='left' >
   <h3>Hi I'm Dorr 👋 </h3>
   
  
@@ -15,11 +15,7 @@
 </div>
 
 
-<div >
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorrKim&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorrKim&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
  
 
- 
-</div>
-</div>
